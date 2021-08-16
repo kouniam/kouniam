@@ -1,5 +1,6 @@
 ### Hi there <img src="https://github.com/kouniam/kouniam/blob/main/wave_emoji.gif" width="20px">
 
+My name is Bruno Rodrigues and I'm a theoretical physicist. I am originally from Portugal, but call Rotterdam, in The Netherlands, my current home.
 <!--
 **kouniam/kouniam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
