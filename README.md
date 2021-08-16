@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Header](https://raw.githubusercontent.com/kouniam/<OWNER>/<OWNER>/graph(L=50)-1.jpg "Header")]
+[![Header](https://github.com/kouniam/kouniam/graph(L=50)-1.jpg "Header")]
 
 <!--
 **kouniam/kouniam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
