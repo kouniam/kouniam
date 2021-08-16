@@ -1,6 +1,7 @@
 ### Hi there <img src="https://github.com/kouniam/kouniam/blob/main/wave_emoji.gif" width="20px">
 
-My name is Bruno Rodrigues and I'm a theoretical physicist. I am originally from Portugal, but call Rotterdam home.
+My name is Bruno Rodrigues and I'm a theoretical physicist. I am originally from Portugal, but call Rotterdam home. 
+For the most part, I make use of Python to do mathematical modeling and data analysis.
 
 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
