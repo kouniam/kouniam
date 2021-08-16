@@ -1,4 +1,4 @@
-### Hi there <img src="https://github.com/kouniam/kouniam/blob/main/wave_emoji.gif" width="30px">
+### Hi there <img src="https://github.com/kouniam/kouniam/blob/main/wave_emoji.gif" width="20px">
 
 <!--
 **kouniam/kouniam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
