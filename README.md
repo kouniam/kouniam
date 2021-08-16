@@ -1,9 +1,4 @@
-### Hi there 👋
-
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
-
-[![Header](https://github.com/kouniam/kouniam/graph(L=50)-1.jpg "Header")]
+### Hi there <img src="https://raw.githubusercontent.com/kouniam/kouniam/master/wave_emoji.gif" width="30px">
 
 <!--
 **kouniam/kouniam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
