@@ -3,7 +3,7 @@
 My name is Bruno Rodrigues and I'm a freshly graduated theoretical physicist. I am originally from Portugal, but (currently) call Rotterdam my home. 
 For the most part, I make use of Python to do mathematical modeling and data analysis, though I am no stranger to C, C++, MATLAB, SQL and R. 
 
-My repositories include some examples of scientific coding that I have done. Feel free to ask me about it.
+My (pinned) repositories include some examples of scientific coding that I have done. Feel free to ask me about it.
 
 - 🔭 I’m currently looking to start my career as a data scientist.
 - 🌱 I’m currently learning about advanced ML algorithms.
