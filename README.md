@@ -7,6 +7,6 @@ My repositories include some examples of scientific coding that I have done. Fee
 
 - 🔭 I’m currently looking to start my career as a data scientist.
 - 🌱 I’m currently learning about advanced ML algorithms.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kouniam/) [Twitter](https://twitter.com/kyunull)
+- 📫 How to reach me: | [LinkedIn](https://www.linkedin.com/in/kouniam/) | [Twitter](https://twitter.com/kyunull) |
 - 😄 Pronouns: He/Him (proudly Queer :rainbow:)
 - ⚡ Fun fact: I'm a huge geek! If my curiosity drives me to a topic, I'll dig throught it relentlessly. ✨
