@@ -11,7 +11,7 @@ My (pinned) repositories include some examples of scientific coding that I have 
 - 😄 Pronouns: He/Him (proudly Queer :rainbow:)
 - ⚡ Fun fact: I'm a huge geek! If my curiosity drives me to a topic, I'll dig throught it relentlessly. ✨
 
-
+***
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kouniam&show_icons=true&theme=tokyonight)
