@@ -5,7 +5,7 @@ For the most part, I make use of Python to do mathematical modeling and data ana
 
 My (pinned) repositories include some examples of scientific coding that I have done. Feel free to ask me about it.
 
-- 🔭 I’m currently looking to start my career as a data analyst/scientist.
+- 🔭 Busy doing data-sciency stuff most of the time.
 - 🌱 I’m currently improving my knowledge on Deep Learning algorithms.
 - 📫 How to reach me: | [LinkedIn](https://www.linkedin.com/in/kouniam/) | [Twitter](https://twitter.com/kyunull) |
 - 😄 Pronouns: He/Him (proudly Queer :rainbow:)
