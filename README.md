@@ -1,19 +1,46 @@
 ### Hi there <img src="https://github.com/kouniam/kouniam/blob/main/wave_emoji.gif" width="20px">
 
-My name is Bruno and I'm a data scientist with a background in theoretical physics. I currently call Rotterdam my home. 
-For the most part, I make use of Python to do mathematical modeling and data analysis, though I am no stranger to C, C++, MATLAB, SQL and R. 
+My name is Bruno, and I'm a data scientist and AI engineer with a background in theoretical physics. These days I spend most of my time somewhere between machine learning, software engineering, MLOps, and generative AI.
 
-My (pinned) repositories include some examples of scientific coding that I have done. Feel free to ask me about it.
+I live in the Netherlands and enjoy building things that turn messy data into useful products, whether that's predictive models, data platforms, retrieval systems, agentic workflows, or just random side projects that sounded like a good idea at 2 AM.
 
-- 🔭 Busy doing data-sciency stuff most of the time.
-- 🌱 I’m currently working on data pipelines for an asset management firm, strengthening my engineering skills.
-- 📫 How to reach me: | [LinkedIn](https://www.linkedin.com/in/kouniam/) | [Twitter](https://twitter.com/kyunull) |
-- 😄 Pronouns: He/Him (proudly Queer :rainbow:)
-- ⚡ Fun fact: I'm a huge geek! I am a DnD DM for many years now, so rolling dice is part of my offline hobbies.
+For most of my work I use Python, but I've also spent plenty of time with SQL, Spark, Databricks, Azure, R and whatever else gets the job done.
+
+#### What I'm usually up to
+
+* 🔬 Building ML and AI systems that actually make it into production.
+* 🤖 Exploring GenAI, RAG architectures, agent frameworks, and orchestration patterns.
+* 🛠️ Designing data pipelines and MLOps workflows.
+* 📊 Turning complicated datasets into models, insights, and visualizations.
+* 🌱 Learning new technologies faster than I can clean up my backlog.
+* 🎤 Occasionally presenting about AI, data science, and engineering topics.
+
+#### Current interests
+
+* Agentic AI
+* LLM evaluation and observability
+* Retrieval-Augmented Generation (RAG)
+* Knowledge graphs and GraphRAG
+* MLOps and model lifecycle management
+* Data engineering and platform design
+* Forecasting and predictive analytics
+
+#### A few fun facts
+
+* 🎲 I've been a D&D Dungeon Master for years, so storytelling and controlled chaos are part of my skillset.
+* 🌈 Proudly queer.
+* ⚛️ I have a degree in theoretical physics, which explains both my curiosity and my tendency to overthink simple problems.
+* ☕ A surprising number of ideas start with coffee and end with Python.
+
+#### Find me around the internet
+
+* 💼 LinkedIn: https://www.linkedin.com/in/kouniam/
+* 📫 Feel free to reach out if you want to talk data, AI, engineering, physics, open source, or tabletop games.
+
+Thanks for stopping by!
 
 ***
 
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=kouniam)](https://github.com/stats-organization/github-stats-extended)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kouniam&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kouniam&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kouniam&layout=compact)
